@@ -4,7 +4,7 @@ Un clone de Pronote créé pour faire du harmeçonage et sensibilisé les élèv
 
 ---
  
-![Logo Pronote]([./public/images/Logo-pronote.png](https://raw.githubusercontent.com/science-math-guy/PRONOTE-CLONE-PHISHING-WEBSITE/main/public/images/Logo-pronote.png))
+![Logo Pronote](./public/images/Logo-pronote.png)
 
 ---
 
